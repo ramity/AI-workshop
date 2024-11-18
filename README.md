@@ -6,13 +6,6 @@ This repo serves as a central place for guided lessons.
 
 - Docker
 
-# How to use this repo
-
-- `git clone` this repo.
-- `docker compose build` to rebuild.
-- `docker compose up -d` to start the containers.
-- `docker exec -it container_name bash` to enter the container.
-
 # Lesson plan
 
 ### Lesson 1 - Docker
