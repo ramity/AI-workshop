@@ -54,4 +54,4 @@ In this lesson, we group wines into categories based on chemical properties and 
 
 ### Lesson 12 - NLP: Movie review sentiment
 
-In this lesson, we perform sentiment analysis on an IMDB dataset to predict weather movie reviews are positive or negative.
+In this lesson, we perform sentiment analysis on an IMDB dataset to predict whether movie reviews are positive or negative.
